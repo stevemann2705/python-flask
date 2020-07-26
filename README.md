@@ -1,4 +1,6 @@
-# python-flask
+# Description
+
+This is a simple Python project to make a REST API using Flask that uses SQLite Database. This project is mostly written for me to get hands-on with Python and do a few trivial tasks like exposing a REST endpoint.
 
 # Installation
 
